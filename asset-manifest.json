@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b707e99c.css",
+    "main.js": "/static/js/main.b5f91107.js",
+    "static/media/camp.jpg": "/static/media/camp.9ebdb780a42179f66a9f.jpg",
+    "static/media/INTJ.png": "/static/media/INTJ.5f812336d19b95d1b1a4.png",
+    "static/media/ENFP.png": "/static/media/ENFP.f9501dc9a3ded303105e.png",
+    "static/media/ISTP.png": "/static/media/ISTP.68a7accdd0e4318a373d.png",
+    "static/media/404_logo.png": "/static/media/404_logo.3834c59a24716f7760a9.png",
+    "index.html": "/index.html",
+    "main.b707e99c.css.map": "/static/css/main.b707e99c.css.map",
+    "main.b5f91107.js.map": "/static/js/main.b5f91107.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b707e99c.css",
+    "static/js/main.b5f91107.js"
+  ]
+}
